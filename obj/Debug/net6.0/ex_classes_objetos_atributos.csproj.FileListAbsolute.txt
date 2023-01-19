@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\bin\Debug\net6.0\ex_classes_objetos_atributos.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\bin\Debug\net6.0\ex_classes_objetos_atributos.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\bin\Debug\net6.0\ex_classes_objetos_atributos.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\bin\Debug\net6.0\ex_classes_objetos_atributos.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\bin\Debug\net6.0\ex_classes_objetos_atributos.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\refint\ex_classes_objetos_atributos.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ex_classes_objetos_atributos.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_classes_objetos_atributos\obj\Debug\net6.0\ref\ex_classes_objetos_atributos.dll
